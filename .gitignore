@@ -1,0 +1,27 @@
+# 遥测原始数据与 API 缓存(仅保留在本地)
+**/cache/
+**/cache_top/
+features/
+**/tel_*.json
+
+# 中间分析数据 JSON(代码与报告之外的产物)
+*.json
+!day5_dupcards/**/*.json
+!**/damageCauserName.json
+!**/mapName.json
+
+# 依赖与构建产物
+node_modules/
+dist/
+day5_dupcards/tsconfig.tsbuildinfo
+
+# 截图核对用的开发产物
+day5_dupcards/shots/
+day5_dupcards/--full-page
+day5_dupcards/--full-page/
+
+# 日志与其他临时文件
+*.log
+*.txt
+__pycache__/
+.zcode/

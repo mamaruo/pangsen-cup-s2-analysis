@@ -1,0 +1,202 @@
+[
+ {
+  "match": "a3f7dcd7-f96e-4fd3-a457-71b3ac9e8634",
+  "dupVictims": [
+   "Wanza1_-",
+   "Like1u"
+  ],
+  "events": [
+   {
+    "ts": 284.518,
+    "type": "DBNO",
+    "attacker": "7I7ireveroF",
+    "victim": "Wanza1_-",
+    "weapon": "WeapMP5K_C",
+    "reason": "TorsoShot",
+    "acct": "account.fd5442c0f4da49ed8ed4feb09c932975"
+   },
+   {
+    "ts": 288.438,
+    "type": "DBNO",
+    "attacker": "7I7ireveroF",
+    "victim": "Like1u",
+    "weapon": "WeapMP5K_C",
+    "reason": "TorsoShot",
+    "acct": "account.fd5442c0f4da49ed8ed4feb09c932975"
+   },
+   {
+    "ts": 299.506,
+    "type": "Kill",
+    "victim": "Wanza1_-",
+    "attacker": "7I7ireveroF",
+    "acct": "account.fd5442c0f4da49ed8ed4feb09c932975",
+    "weapon": "WeapMP5K_C",
+    "reason": "TorsoShot",
+    "dbnoMaker": "7I7ireveroF",
+    "finisher": "7I7ireveroF"
+   },
+   {
+    "ts": 301.24,
+    "type": "Kill",
+    "victim": "Like1u",
+    "attacker": "7I7ireveroF",
+    "acct": "account.fd5442c0f4da49ed8ed4feb09c932975",
+    "weapon": "WeapMP5K_C",
+    "reason": "TorsoShot",
+    "dbnoMaker": "7I7ireveroF",
+    "finisher": "7I7ireveroF"
+   },
+   {
+    "ts": 722.443,
+    "type": "DBNO",
+    "attacker": "III7722II",
+    "victim": "Like1u",
+    "weapon": "WeapKar98k_C",
+    "reason": "HeadShot",
+    "acct": "account.eb9b15d4b5a4464f9c9466fb9d260a54"
+   },
+   {
+    "ts": 727.957,
+    "type": "DBNO",
+    "attacker": "III7722II",
+    "victim": "Wanza1_-",
+    "weapon": "WeapAUG_C",
+    "reason": "PelvisShot",
+    "acct": "account.eb9b15d4b5a4464f9c9466fb9d260a54"
+   },
+   {
+    "ts": 737.068,
+    "type": "Kill",
+    "victim": "Wanza1_-",
+    "attacker": "III7722II",
+    "acct": "account.eb9b15d4b5a4464f9c9466fb9d260a54",
+    "weapon": "WeapAUG_C",
+    "reason": "PelvisShot",
+    "dbnoMaker": "III7722II",
+    "finisher": "III7722II"
+   },
+   {
+    "ts": 742.461,
+    "type": "Kill",
+    "victim": "Like1u",
+    "attacker": "III7722II",
+    "acct": "account.eb9b15d4b5a4464f9c9466fb9d260a54",
+    "weapon": "WeapKar98k_C",
+    "reason": "HeadShot",
+    "dbnoMaker": "III7722II",
+    "finisher": "III7722II"
+   },
+   {
+    "ts": 1002.834,
+    "type": "DBNO",
+    "attacker": "T4nPhat",
+    "victim": "Like1u",
+    "weapon": "WeapACE32_C",
+    "reason": "TorsoShot",
+    "acct": "account.694ce1794e784973b0617db0a3294588"
+   },
+   {
+    "ts": 1039.455,
+    "type": "Revive",
+    "attacker": "Wanza1_-",
+    "victim": "Like1u",
+    "acct": "account.1011f96883934c52839fbdad075f5d7a"
+   },
+   {
+    "ts": 1159.669,
+    "type": "DBNO",
+    "attacker": "zaer-_",
+    "victim": "Like1u",
+    "weapon": "WeapFamasG2_C",
+    "reason": "PelvisShot",
+    "acct": "account.55b887a77e534869b9ee90e97e4c1a5a"
+   },
+   {
+    "ts": 1202.521,
+    "type": "Revive",
+    "attacker": "Wanza1_-",
+    "victim": "Like1u",
+    "acct": "account.1011f96883934c52839fbdad075f5d7a"
+   },
+   {
+    "ts": 1225.546,
+    "type": "DBNO",
+    "attacker": "OVOVOOOV",
+    "victim": "Like1u",
+    "weapon": "WeapM249_C",
+    "reason": "HeadShot",
+    "acct": "account.0948de9e482b4d65abd9362281a04f3e"
+   },
+   {
+    "ts": 1242.602,
+    "type": "Kill",
+    "victim": "Like1u",
+    "attacker": "OVOVOOOV",
+    "acct": "account.0948de9e482b4d65abd9362281a04f3e",
+    "weapon": "WeapM249_C",
+    "reason": "HeadShot",
+    "dbnoMaker": "OVOVOOOV",
+    "finisher": "OVOVOOOV"
+   },
+   {
+    "ts": 1360.351,
+    "type": "Kill",
+    "victim": "Wanza1_-",
+    "attacker": "OVOVOOOV",
+    "acct": "account.0948de9e482b4d65abd9362281a04f3e",
+    "weapon": "WeapM249_C",
+    "reason": "TorsoShot",
+    "dbnoMaker": null,
+    "finisher": "OVOVOOOV"
+   }
+  ]
+ },
+ {
+  "match": "a5559d48-63b6-44fe-b2a3-e3aa437a7fd2",
+  "dupVictims": [
+   "Cupid_LLL"
+  ],
+  "events": [
+   {
+    "ts": 309.304,
+    "type": "DBNO",
+    "attacker": "January_BiG",
+    "victim": "Cupid_LLL",
+    "weapon": "WeapMk12_C",
+    "reason": "TorsoShot",
+    "acct": "account.0a851679df5b4d91b4b831aa4dbfa302"
+   },
+   {
+    "ts": 318.469,
+    "type": "Kill",
+    "victim": "Cupid_LLL",
+    "attacker": "January_BiG",
+    "acct": "account.0a851679df5b4d91b4b831aa4dbfa302",
+    "weapon": "WeapMk12_C",
+    "reason": "TorsoShot",
+    "dbnoMaker": "January_BiG",
+    "finisher": "7Bebebe_"
+   },
+   {
+    "ts": 667.018,
+    "type": "DBNO",
+    "attacker": "January_BiG",
+    "victim": "Cupid_LLL",
+    "weapon": "ProjGrenade_C",
+    "reason": "NonSpecific",
+    "acct": "account.0a851679df5b4d91b4b831aa4dbfa302"
+   },
+   {
+    "ts": 674.318,
+    "type": "Kill",
+    "victim": "Cupid_LLL",
+    "attacker": "January_BiG",
+    "acct": "account.0a851679df5b4d91b4b831aa4dbfa302",
+    "weapon": "ProjGrenade_C",
+    "reason": "NonSpecific",
+    "dbnoMaker": "January_BiG",
+    "finisher": "7Bebebe_"
+   }
+  ]
+ }
+]
